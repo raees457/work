@@ -1,0 +1,148 @@
+.text-muted{
+    text-align:center ;
+}
+.list-unstyled text{
+    margin:100% ;
+}
+.list-unstyled  {
+    text-align: center;
+
+
+}
+.img{
+    
+    position: absolute;
+    padding-left: 500px;
+    z-index: 1;
+    top: 20px;
+}
+.hr{
+    border: 0.5px solid grey;
+    width: 100%;
+}
+.form-outline{
+    padding-left: 800px;
+}
+.btn-lg{
+    margin: 30px;
+    scrollbar-3dlight-color:grey ;
+    
+}
+
+#feature{
+    background-color:rgba(128, 128, 128, 0.267) ;
+    
+    padding: 2% 5%;
+}
+
+#srh{
+    background-color: silver ;
+    height: 100px;
+    text-align:center ;
+}
+.text{
+    width: 300px;
+    border-color:wheat ;
+    border-radius: 300px;
+    background-color: whitesmoke;
+    margin: 30px;
+    height: 40px;
+    text-align: justify;
+    }
+.H1{
+    text-align: center;
+    color: rgba(0, 128, 0, 0.815);
+    padding: 0% 2%  2% 4%;
+    font-family:"'Vollkorn', serif";
+
+}
+#footer{
+    
+
+        position: relative;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: white;
+        color: white;
+        text-align: center;
+        height: 2px;
+        padding: 2% 3%;
+        text-align: center;
+}
+h2{
+    font-family: "'Merriweather', serif";
+    padding-bottom: 30px;
+}
+.color-3{
+    color: whitesmoke;
+}
+
+ .p-4{
+    font-family:" 'Lora', serif";
+    font-family:" 'Oswald', sans-serif";
+    color: #40a8c4;
+    font-size: 25px;
+    text-align: unset;
+
+
+
+ }   
+
+
+.p{
+    font-family: "'Oswald', sans-serif";
+    font-size: 20px;
+    color: black;
+}
+.cart{
+    padding-left: 900px;
+    position: absolute;
+    z-index: 1;
+}
+#cta {
+    padding:3% 4% ;
+}
+/*cta section*/
+
+#cta-1 {
+    background-color:#3f4441 ;
+color: #fff;
+
+
+
+}
+body{
+    font-family:"'Vollkorn', serif";
+}
+.h{
+    color: yellowgreen;
+    padding-right: 10px;
+}
+.h-1{
+    color: yellowgreen;
+    padding-right: 10px; 
+}
+
+.table-border{
+    border-color:#3f4441 ;
+}
+.color-1{
+    color: #ad9d9d;
+}
+.table{
+    border: transparent;
+}
+.color{
+    color:#bfdcae ;
+}
+.cta-heading{
+    font-family:"montserrat-black" ;
+    color: honeydew;
+
+}
+/*footer section*/
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+}
